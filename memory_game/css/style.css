@@ -1,5 +1,9 @@
 body {
 	text-align: center;
+	text-decoration: none;
+}
+h1, a, h2 {
+	text-transform: uppercase;
 }
 h1 {
 	font-family: Raleway, serif;
