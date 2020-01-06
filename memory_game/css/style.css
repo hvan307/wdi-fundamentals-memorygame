@@ -4,6 +4,7 @@ body {
 }
 h1, a, h2 {
 	text-transform: uppercase;
+	text-decoration: none;
 }
 h1 {
 	font-family: Raleway, serif;
