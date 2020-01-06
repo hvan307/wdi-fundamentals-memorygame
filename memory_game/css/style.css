@@ -1,3 +1,6 @@
+body {
+	text-align: center;
+}
 h1 {
 	font-family: Raleway, serif;
 	color:#0D2C40;
@@ -5,3 +8,11 @@ h1 {
 	font-weight: 400;
 	font-size: 45px;
 }
+h2 {
+	font-family: Raleway, serif;
+	color: #F15B31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+
