@@ -68,6 +68,10 @@ p {
 	margin: 0;
 }
 
+.social_links:hover {
+	border-color: #00A6B3;
+}
+
 img {
 	margin: 40px 8px 0 8px;
 }
